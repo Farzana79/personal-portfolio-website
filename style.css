@@ -29,6 +29,34 @@ h2{
     
 }
 section{
-    height: 250px;
-    padding-bottom: 200px;
+    height: 400px;
+    padding-bottom: 150px;
+    
+}
+.work-project{
+    height: 300%;
+    width: 100%;
+    background-color: lime;
+}
+
+.projects img{
+    height: 25%;
+    width: 25%;
+    float: left;
+   
+    padding-left: 5%;
+}
+.work-project{
+    height: 300%;
+    width: 100%;
+    overflow: hidden;
+    text-align: justify;
+    background-color: lightslategray;
+
+     
+}
+div.working{
+    text-align: center;
+   
+   
 }
