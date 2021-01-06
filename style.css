@@ -39,16 +39,18 @@ section{
     text-align: center;
     
     
-    background-color: lime;
+    background-color: rgb(236, 213, 235);
 }
 .container{
     width: 100%;
-    
-    
+    margin-left: 5%;
+   
 }
 .container img{
     width: 25%;
     float: left;
-    
-    padding-left: 5%;
+    margin-left: 2%;
+    padding-left: 2%;
 }
+  
+
