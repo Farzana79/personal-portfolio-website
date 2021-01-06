@@ -33,30 +33,22 @@ section{
     padding-bottom: 150px;
     
 }
-.work-project{
-    height: 300%;
+.Work-project{
+    height: 400px;
     width: 100%;
+    text-align: center;
+    
+    
     background-color: lime;
 }
-
-.projects img{
-    height: 25%;
+.container{
+    width: 100%;
+    
+    
+}
+.container img{
     width: 25%;
     float: left;
-   
+    
     padding-left: 5%;
-}
-.work-project{
-    height: 300%;
-    width: 100%;
-    overflow: hidden;
-    text-align: justify;
-    background-color: lightslategray;
-
-     
-}
-div.working{
-    text-align: center;
-   
-   
 }
